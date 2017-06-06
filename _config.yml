@@ -1,0 +1,8 @@
+title: Igor Santos
+description: Desenvolvedor full-stack
+google_analytics: UA-26066833-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
