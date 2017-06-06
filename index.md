@@ -6,7 +6,7 @@ Programo em PHP há 8 anos. No meu primeiro emprego, onde enfrentei dragões e u
 
 
 ### Atividades atuais
-No momento sou freelancer na [Toptal](https://www.toptal.com/developers/join/#obtain-only-eye-opening-coders-now), desenvolvendo sistemas web diversos para clientes ao redor do mundo. Desenvolvo sistemas tradicionais de backend e [APIs REST][REST], e também trabalho com projetos de frontend com React.
+No momento sou [freelancer](http://freelancer.igorsantos.com.br) na [Toptal](https://www.toptal.com/developers/join/#obtain-only-eye-opening-coders-now), desenvolvendo sistemas web diversos para clientes ao redor do mundo. Desenvolvo sistemas tradicionais de backend e [APIs REST][REST], e também trabalho com projetos de frontend com React. Veja [meu perfil de freelancer e meu portifolio](http://freelancer.igorsantos.com.br).
 
 Em 2012~2013 participei do programa Ciência Sem Froteiras, do Governo Federal, o que me levou a estudar por um ano na [Dalhousie University](http://www.dal.ca), no [Canadá](http://goo.gl/maps/IX6qY). Meu foco foi Interfaces de Usuário e Aplicações Móveis - com o projeto final sendo um [aplicativo em JS, híbrido](https://bitbucket.org/igorsantos07/marketshare). Também, no curso de redes, desenvolvi um paper sobre [serviços distribuídos][webservices], que serviu para consolidar os conhecimentos que seriam úteis no estágio supervisionado, um [servidor REST de glossário digital](https://bitbucket.org/dal-glossary/server/).
 
@@ -39,7 +39,7 @@ Uma lista de projetos próprios que considero relevantes. Obviamente, além dele
 
 Você pode me encontrar aqui:
 - E-mail: <[contato@igorsantos.com.br](mailto:contato@igorsantos.com.br)>
-- Toptal: [Freelancer full-stack @ Toptal](https://www.toptal.com/resume/igor-gomes-dos-santos#obtain-only-eye-opening-coders-now)
+- Toptal: [Freelancer full-stack @ Toptal](http://freelancer.igorsantos.com.br)
 - LinkedIn: [/in/igorsantos07](https://www.linkedin.com/in/igorsantos07/pt)
 - Facebook: [/igorsantos07](https://www.facebook.com/igorsantos07)
 - Sobre o Konato: [site](http://konato.igorsantos.com.br) e [e-mail](mailto:conf@igorsantos.com.br)
