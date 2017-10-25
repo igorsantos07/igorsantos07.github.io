@@ -1,6 +1,8 @@
-## Desatualizado / Outdated
+### Desatualizado / Outdated
 Olá! Não uso mais este site. Você pode encontrar detalhes atualizados sobre mim no meu [about.me](https://about.me/igorsantos07).
+
 ---------
+
 Hello there! I don't use this website anymore. You can find updated details [about me here](https://about.me/igorsantos07).
 
 ### Apresentação
