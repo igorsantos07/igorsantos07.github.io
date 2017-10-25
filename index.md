@@ -1,3 +1,8 @@
+## Desatualizado / Outdated
+Olá! Não uso mais este site. Você pode encontrar detalhes atualizados sobre mim no meu [about.me](https://about.me/igorsantos07).
+---------
+Hello there! I don't use this website anymore. You can find updated details [about me here](https://about.me/igorsantos07).
+
 ### Apresentação
 
 Programo em PHP há 8 anos. No meu primeiro emprego, onde enfrentei dragões e um framework caseiro sem documentação alguma, aprendi como documentação e código organizado são características essenciais de um bom projeto. Desde então sou, em geral, o maior defensor de docblocks, [DRY] e RESTful no dia-a-dia dos projetos que trabalho.
