@@ -1,9 +1,9 @@
 ### Desatualizado / Outdated
-Olá! Não uso mais este site. Você pode encontrar detalhes atualizados sobre mim no meu [about.me](https://about.me/igorsantos07).
+Olá! Não uso mais este site. Você pode encontrar detalhes atualizados sobre mim no meu [about.me][aboutme], ou você pode visitar o meu [portfolio de freelancer][portfolio].
 
 ---------
 
-Hello there! I don't use this website anymore. You can find updated details [about me here](https://about.me/igorsantos07).
+Hello there! I don't use this website anymore. You can find updated details [about me here](https://about.me/igorsantos07), or visit my [freelancer portfolio][portfolio].
 
 ### Apresentação
 
@@ -81,3 +81,5 @@ Você pode me encontrar aqui:
 
 [github]:http://www.tribler.org/img/github-icon.png
 [bitbucket]:http://www.jannieogjesper.dk/images/glyphicons_401_bitbucket.png
+[aboutme]: https://about.me/igorsantos07
+[portfolio]: http://freelancer.igorsantos.com.br
